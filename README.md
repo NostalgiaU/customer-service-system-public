@@ -6,7 +6,8 @@
 
 本仓库只发布通用程序与模拟测试。部署者使用自己的平台账号和凭据；仓库不附带店铺配置、客户数据、聊天记录、知识库或模型密钥。
 
-![Uploading image.png…]()
+<img width="3454" height="1854" alt="419c42ccef38d77f62c8552f023e750d" src="https://github.com/user-attachments/assets/3097a892-2cd3-4733-b863-66776b5a2f92" />
+
 
 ## 项目优势
 
