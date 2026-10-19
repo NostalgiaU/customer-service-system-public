@@ -1,0 +1,56 @@
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local backups and runtime files
+*.bak*
+*.log
+*.pid
+*.sqlite*
+dump.rdb
+appendonlydir/
+
+# Editor and operating system files
+.DS_Store
+.idea/
+.vscode/
+
+.runtime/
+
+# Private exports, media, database snapshots and internal deployment material
+data/
+private/
+internal/
+backups/
+logs/
+uploads/
+exports/
+docs/
+themes/
+*.db*
+*.sql*
+*.rdb
+*.aof*
+*.log.*
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.zip
+*.tar
+*.tar.gz
+*.tgz
